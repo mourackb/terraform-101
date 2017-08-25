@@ -1,0 +1,4 @@
+#To declare a provider in Terraform
+provider "digitalocean" {
+    # actiontodo
+}
