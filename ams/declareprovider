@@ -1,4 +1,6 @@
 #To declare a provider in Terraform
 provider "digitalocean" {
+    # It is possible to use a token, depends on the provider that we are using
+    token = "xxxx-xxxxx-xxxx-xxxx-xxxx"
     # actiontodo
 }
